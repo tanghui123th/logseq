@@ -79,4 +79,5 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
-   :ui/show-brackets? true}
+   :ui/show-brackets? true
+   :feature/enable-timetracking? true}
