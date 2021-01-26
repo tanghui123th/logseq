@@ -81,4 +81,4 @@
  :macros {}
    :ui/show-brackets? true
    :feature/enable-timetracking? true
-   :preferred_format :org}
+   :preferred_format :markdown}
