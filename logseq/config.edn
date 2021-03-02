@@ -82,6 +82,6 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
-   :ui/show-brackets? false
+   :ui/show-brackets? true
  :feature/enable-journals? true
  :default-home {}}
