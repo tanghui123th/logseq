@@ -1,0 +1,15 @@
+.page-ref {
+    color: rgb(195 160 26);
+}
+
+a.tag {
+    color: rgb(98 228 198);
+}
+
+:not(pre)>code {
+
+    background-color: #2f545d);
+
+}
+
+
