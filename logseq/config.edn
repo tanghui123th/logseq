@@ -65,6 +65,9 @@
             [(< ?d ?next)]
             [(contains? #{"NOW" "LATER" "TODO"} ?marker)]]
     :inputs [:today :7d-after]
+    :result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/priority "Z")) result))
     :collapsed? false}
 
     ]}
