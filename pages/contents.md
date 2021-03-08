@@ -1,7 +1,7 @@
 ## 工作流
-## [[Fleeting Notes]]
-## [[Evergreen Notes]]
-## [[Literature Notes]]
-## [[Projects]]
-## [[Template]]
-## [[Inbox]]
+### [[Fleeting Notes]]
+### [[Evergreen Notes]]
+### [[Literature Notes]]
+### [[Projects]]
+### [[Template]]
+### [[Inbox]]
