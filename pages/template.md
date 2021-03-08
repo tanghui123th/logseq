@@ -71,7 +71,7 @@ title: Template
 :PROPERTIES:
 :template: Project
 :tags: 
-:including-parent: 
+:including-parent: False
 :END:
 ### 项目名称：[[]]
 ### 项目概述
