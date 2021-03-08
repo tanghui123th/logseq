@@ -47,7 +47,7 @@
             [(>= ?d ?start)]
             [(<= ?d ?today)]
             [(contains? #{"NOW" "DOING"} ?marker)]]
-    :inputs [:14d :today]
+    :inputs [:30d :today]
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
