@@ -115,4 +115,5 @@
  :macros {}
    :ui/show-brackets? false
  :feature/enable-journals? true
- :default-home {}}
+ :default-home {}
+ :markdown/version 2}
